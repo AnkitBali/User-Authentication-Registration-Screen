@@ -8,6 +8,8 @@ This project serves as a valuable learning resource for implementing conditional
 
 By studying this project, you can gain knowledge and insights into effectively utilizing these operators to conditionally render components based on specific conditions in a React application.
 
+For switching between "Login" and "Registration" screens change the value of "var userIsRegistered" in "App.jsx" component.
+
 
 ## Deployment
 
